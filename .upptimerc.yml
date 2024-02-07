@@ -20,14 +20,20 @@ sites:
   - name: Apel Manis
     url: https://apelmanis.natee.my.id
     icon: https://apelmanis.my.id/favicon.ico
+  - name: Google DNS 8.8.8.8
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+    icon: https://icons.veryicon.com/png/o/application/app-general-icon-01/dns-1.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: cname.vercel-dns.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Rizky Haksono
+  name: Uptime RH
+  theme: dark
   introTitle: "**Upptime** is the uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
   navbar:
@@ -38,3 +44,15 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: This page is hosted on GitHub [rizkyhaksono/uptime]($REPO) project since @2024-02-02, & created by [rizkyhaksono](https://rizkyhaksono.natee.my.id/).
+
+workflowSchedule:
+graphs: "0 */6 * * *"
+responseTime: "10 */6 * * *"
+staticSite: "20 */6 * * *"
+summary: "30 */6 * * *"
+updateTemplate: "0 0 * * *"
+updates: "40 */6 * * *"
+uptime: "*/5 * * * *"

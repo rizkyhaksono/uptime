@@ -40,7 +40,7 @@
     "url": "https://otakudesube.natee.my.id",
     "icon": "https://otakudesube.my.id/favicon.ico",
     "slug": "otakudesu-backend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 242,
     "timeMonth": 262,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   },
   {
     "name": "Otakudesu Frontend",

@@ -7,19 +7,22 @@ sites:
     icon: https://natee.my.id/favicon.ico
   - name: Smart Recycling
     url: https://smartrecycling.natee.my.id
-    icon: https://smartrecycling.my.id/favicon.ico
   - name: Otakudesu Backend API
-    url: https://otakudesube.natee.my.id
-    icon: https://otakudesube.my.id/favicon.ico
+    url: https://api.otakudesu.natee.my.id/api
+    icon: https://api.otakudesu.natee.my.id/favicon.ico
   - name: Otakudesu Frontend
     url: https://otakudesu.natee.my.id
-    icon: https://otakudesu.my.id/favicon.ico
+    icon: https://otakudesu.natee.my.id/favicon.ico
   - name: Otakudesu Docs
     url: https://otakudesudocs.natee.my.id
-    icon: https://otakudesudocs.my.id/favicon.ico
+    icon: https://otakudesudocs.natee.my.id/favicon.ico
   - name: Apel Manis
     url: https://apelmanis.natee.my.id
-    icon: https://apelmanis.my.id/favicon.ico
+    icon: https://apelmanis.natee.my.id/favicon.ico
+  - name: Info Gempa
+    url: https://gempa.natee.me/
+  - name: NestJS Inventory API
+    url: https://inventory.natee.me/api
   - name: Google DNS 8.8.8.8
     check: "tcp-ping"
     url: 8.8.8.8

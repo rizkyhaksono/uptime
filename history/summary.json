@@ -115,18 +115,20 @@
     "url": "https://gempa.natee.me/",
     "icon": "https://icons.duckduckgo.com/ip3/gempa.natee.me.ico",
     "slug": "info-gempa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1820,
-    "timeDay": 579,
-    "timeWeek": 1468,
-    "timeMonth": 1820,
-    "timeYear": 1820,
-    "dailyMinutesDown": {}
+    "time": 1836,
+    "timeDay": 1451,
+    "timeWeek": 1575,
+    "timeMonth": 1836,
+    "timeYear": 1836,
+    "dailyMinutesDown": {
+      "2024-06-04": 0
+    }
   },
   {
     "name": "NestJS Inventory API",

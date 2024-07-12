@@ -115,19 +115,19 @@
     "url": "https://gempa.natee.me/",
     "icon": "https://icons.duckduckgo.com/ip3/gempa.natee.me.ico",
     "slug": "info-gempa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1727,
-    "timeDay": 1358,
-    "timeWeek": 1867,
-    "timeMonth": 1676,
-    "timeYear": 1727,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1735,
+    "timeDay": 1701,
+    "timeWeek": 1925,
+    "timeMonth": 1699,
+    "timeYear": 1735,
     "dailyMinutesDown": {
-      "2024-07-12": 0
+      "2024-07-12": 16
     }
   },
   {

@@ -23,6 +23,10 @@ sites:
     url: https://gempa.natee.me/
   - name: NestJS Inventory API
     url: https://inventory.natee.me/api
+  - name: Mahati Admin
+    url: https://mahati.natee.me
+  - name: Mahati API
+    url: https://mahati.xyzuan.my.id
   - name: Google DNS 8.8.8.8
     check: "tcp-ping"
     url: 8.8.8.8

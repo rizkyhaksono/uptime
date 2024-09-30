@@ -184,18 +184,20 @@
     "url": "https://mahati.xyzuan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/mahati.xyzuan.my.id.ico",
     "slug": "mahati-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 859,
-    "timeWeek": 860,
-    "timeMonth": 879,
-    "timeYear": 877,
-    "dailyMinutesDown": {}
+    "time": 868,
+    "timeDay": 654,
+    "timeWeek": 809,
+    "timeMonth": 865,
+    "timeYear": 868,
+    "dailyMinutesDown": {
+      "2024-09-30": 0
+    }
   },
   {
     "name": "Google DNS 8.8.8.8",

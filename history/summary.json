@@ -117,9 +117,9 @@
     "slug": "info-gempa",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 3134,
     "timeDay": 5515,
@@ -127,7 +127,6 @@
     "timeMonth": 3020,
     "timeYear": 3134,
     "dailyMinutesDown": {
-      "2024-10-28": 14,
       "2024-09-22": 55,
       "2024-09-17": 65,
       "2024-09-16": 37,
@@ -149,9 +148,9 @@
     "url": "https://inventory.natee.me/api",
     "icon": "https://icons.duckduckgo.com/ip3/inventory.natee.me.ico",
     "slug": "nest-js-inventory-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -160,7 +159,9 @@
     "timeWeek": 387,
     "timeMonth": 500,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   },
   {
     "name": "Mahati Admin",

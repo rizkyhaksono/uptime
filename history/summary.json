@@ -148,7 +148,7 @@
     "url": "https://inventory.natee.me/api",
     "icon": "https://icons.duckduckgo.com/ip3/inventory.natee.me.ico",
     "slug": "nest-js-inventory-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "98.47%",
     "uptimeWeek": "99.78%",

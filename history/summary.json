@@ -148,11 +148,11 @@
     "url": "https://inventory.natee.me/api",
     "icon": "https://icons.duckduckgo.com/ip3/inventory.natee.me.ico",
     "slug": "nest-js-inventory-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "93.65%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.96%",
     "time": 1185,
     "timeDay": 15024,
@@ -160,7 +160,7 @@
     "timeMonth": 3643,
     "timeYear": 1185,
     "dailyMinutesDown": {
-      "2024-10-29": 13,
+      "2024-10-29": 0,
       "2024-10-28": 91
     }
   },

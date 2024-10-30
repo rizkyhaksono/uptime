@@ -150,17 +150,17 @@
     "slug": "nest-js-inventory-api",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "75.24%",
-    "uptimeWeek": "95.95%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "78.48%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.84%",
     "time": 1747,
-    "timeDay": 8580,
+    "timeDay": 7927,
     "timeWeek": 8484,
     "timeMonth": 5027,
     "timeYear": 1747,
     "dailyMinutesDown": {
-      "2024-10-29": 318,
+      "2024-10-29": 310,
       "2024-10-28": 91
     }
   },

@@ -3,12 +3,14 @@ repo: uptime
 
 sites:
   - name: Portfolio
-    url: https://www.natee.my.id
-    icon: https://natee.my.id/favicon.ico
-  - name: Smart Recycling
-    url: https://smartrecycling.natee.my.id
-  - name: Otakudesu Backend API
-    url: https://api.otakudesu.natee.my.id/api
+    url: https://natee.me
+    icon: https://natee.me/favicon.ico
+  - name: Smart Recycling Frontend
+    url: https://smartrecycling.natee.me
+  - name: Smart Recycling Backend
+    url: https://api-smartrecycling.natee.me
+  - name: Otakudesu Backend
+    url: https://otakudesu.natee.me/api
     icon: https://api.otakudesu.natee.my.id/favicon.ico
   - name: Otakudesu Frontend
     url: https://otakudesu.natee.my.id
@@ -27,11 +29,12 @@ sites:
     url: https://mahati.natee.me
   - name: Mahati API
     url: https://mahati.xyzuan.my.id
-  - name: Google DNS 8.8.8.8
-    check: "tcp-ping"
-    url: 8.8.8.8
-    port: 53
-    icon: https://icons.veryicon.com/png/o/application/app-general-icon-01/dns-1.png
+  - name: Jenkins Natee
+    url: https://jenkins.natee.me
+  - name: Nginx Natee
+    url: https://nginx.natee.me
+  - name: Portainer Natee
+    url: https://portainer.natee.me
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

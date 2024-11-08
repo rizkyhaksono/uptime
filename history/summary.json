@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-smartrecycling.natee.me.ico",
     "slug": "smart-recycling-backend",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "98.01%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "98.01%",
     "time": 820,
     "timeDay": 820,
     "timeWeek": 820,
     "timeMonth": 820,
     "timeYear": 820,
     "dailyMinutesDown": {
-      "2024-11-08": 0
+      "2024-11-08": 16
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://otakudesu.natee.me/api",
     "icon": "https://api.otakudesu.natee.my.id/favicon.ico",
     "slug": "otakudesu-backend",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 808,
-    "timeDay": 808,
-    "timeWeek": 808,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "status": "up",
+    "uptime": "98.03%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.03%",
+    "time": 847,
+    "timeDay": 847,
+    "timeWeek": 847,
+    "timeMonth": 847,
+    "timeYear": 847,
     "dailyMinutesDown": {
-      "2024-11-08": 0
+      "2024-11-08": 16
     }
   },
   {
@@ -169,7 +169,7 @@
     "slug": "nest-js-inventory-api",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "54.94%",
+    "uptimeDay": "56.03%",
     "uptimeWeek": "64.30%",
     "uptimeMonth": "90.10%",
     "uptimeYear": "98.37%",
@@ -246,7 +246,7 @@
     "timeMonth": 818,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2024-11-08": 446,
+      "2024-11-08": 461,
       "2024-11-07": 340
     }
   },

@@ -5,6 +5,8 @@ sites:
   - name: Portfolio
     url: https://natee.me
     icon: https://natee.me/favicon.ico
+  - name: Portfolio API v3
+    url: https://api.natee.me/swagger
   - name: Smart Recycling Frontend
     url: https://smartrecycling.natee.me
   - name: Smart Recycling Backend

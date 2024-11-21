@@ -4,10 +4,10 @@
     "url": "https://natee.me",
     "icon": "https://natee.me/favicon.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
@@ -15,7 +15,9 @@
     "timeWeek": 482,
     "timeMonth": 374,
     "timeYear": 308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 1
+    }
   },
   {
     "name": "Portfolio API v3",
@@ -40,10 +42,10 @@
     "url": "https://smartrecycling.natee.me",
     "icon": "https://icons.duckduckgo.com/ip3/smartrecycling.natee.me.ico",
     "slug": "smart-recycling-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
@@ -51,7 +53,9 @@
     "timeWeek": 136,
     "timeMonth": 150,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-21": 1
+    }
   },
   {
     "name": "Smart Recycling Backend",
@@ -59,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-smartrecycling.natee.me.ico",
     "slug": "smart-recycling-backend",
     "status": "up",
-    "uptime": "92.18%",
+    "uptime": "92.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.18%",
-    "uptimeYear": "92.18%",
+    "uptimeMonth": "92.34%",
+    "uptimeYear": "92.34%",
     "time": 852,
     "timeDay": 704,
     "timeWeek": 854,
@@ -267,7 +271,7 @@
     "timeMonth": 790,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2024-11-21": 1,
+      "2024-11-21": 399,
       "2024-11-20": 1440,
       "2024-11-19": 1440,
       "2024-11-18": 1440,

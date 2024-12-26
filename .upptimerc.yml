@@ -32,7 +32,7 @@ sites:
   - name: Mahati API
     url: https://mahati.xyzuan.my.id
   - name: Jenkins Natee
-    url: https://jenkins.natee.me
+    url: https://jenkins.natee.me/login?from=%2F
   - name: Nginx Natee
     url: https://nginx.natee.me
   - name: Portainer Natee

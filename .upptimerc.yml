@@ -11,7 +11,9 @@ sites:
     url: https://smartrecycling.natee.me
   - name: Smart Recycling Backend
     url: https://api-smartrecycling.natee.me
-  - name: Otakudesu Backend
+  - name: Nateeflix API
+    url: https://api.flix.natee.me/swagger
+  - name: Otakudesu API
     url: https://otakudesu.natee.me/api
     icon: https://api.otakudesu.natee.my.id/favicon.ico
   - name: Otakudesu Frontend

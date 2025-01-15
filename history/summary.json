@@ -25,18 +25,20 @@
     "url": "https://api.natee.me/swagger",
     "icon": "https://icons.duckduckgo.com/ip3/api.natee.me.ico",
     "slug": "portfolio-api-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 825,
-    "timeDay": 830,
-    "timeWeek": 784,
-    "timeMonth": 811,
-    "timeYear": 825,
-    "dailyMinutesDown": {}
+    "time": 827,
+    "timeDay": 902,
+    "timeWeek": 807,
+    "timeMonth": 816,
+    "timeYear": 827,
+    "dailyMinutesDown": {
+      "2025-01-15": 0
+    }
   },
   {
     "name": "Smart Recycling Frontend",
@@ -310,7 +312,7 @@
     "uptime": "29.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.09%",
+    "uptimeMonth": "66.11%",
     "uptimeYear": "29.94%",
     "time": 789,
     "timeDay": 840,

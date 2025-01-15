@@ -12,7 +12,7 @@
     "uptimeYear": "99.94%",
     "time": 475,
     "timeDay": 1792,
-    "timeWeek": 2405,
+    "timeWeek": 2354,
     "timeMonth": 1710,
     "timeYear": 475,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 825,
     "timeDay": 830,
-    "timeWeek": 799,
+    "timeWeek": 784,
     "timeMonth": 811,
     "timeYear": 825,
     "dailyMinutesDown": {}
@@ -51,7 +51,7 @@
     "uptimeYear": "100.00%",
     "time": 265,
     "timeDay": 119,
-    "timeWeek": 173,
+    "timeWeek": 174,
     "timeMonth": 177,
     "timeYear": 265,
     "dailyMinutesDown": {}
@@ -69,7 +69,7 @@
     "uptimeYear": "98.50%",
     "time": 820,
     "timeDay": 820,
-    "timeWeek": 815,
+    "timeWeek": 800,
     "timeMonth": 806,
     "timeYear": 820,
     "dailyMinutesDown": {
@@ -90,7 +90,7 @@
     "uptimeYear": "100.00%",
     "time": 697,
     "timeDay": 724,
-    "timeWeek": 697,
+    "timeWeek": 694,
     "timeMonth": 697,
     "timeYear": 697,
     "dailyMinutesDown": {}
@@ -100,19 +100,19 @@
     "url": "https://otakudesu.natee.me/api",
     "icon": "https://api.otakudesu.natee.my.id/favicon.ico",
     "slug": "otakudesu-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 743,
-    "timeWeek": 782,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 775,
+    "timeDay": 733,
+    "timeWeek": 773,
+    "timeMonth": 775,
+    "timeYear": 775,
     "dailyMinutesDown": {
-      "2025-01-15": 0
+      "2025-01-15": 28
     }
   },
   {
@@ -128,7 +128,7 @@
     "uptimeYear": "100.00%",
     "time": 269,
     "timeDay": 180,
-    "timeWeek": 294,
+    "timeWeek": 313,
     "timeMonth": 274,
     "timeYear": 269,
     "dailyMinutesDown": {}
@@ -146,7 +146,7 @@
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 272,
-    "timeWeek": 199,
+    "timeWeek": 185,
     "timeMonth": 250,
     "timeYear": 218,
     "dailyMinutesDown": {}
@@ -164,7 +164,7 @@
     "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 197,
-    "timeWeek": 222,
+    "timeWeek": 244,
     "timeMonth": 222,
     "timeYear": 222,
     "dailyMinutesDown": {}
@@ -182,7 +182,7 @@
     "uptimeYear": "96.55%",
     "time": 2958,
     "timeDay": 2779,
-    "timeWeek": 2178,
+    "timeWeek": 2444,
     "timeMonth": 2293,
     "timeYear": 2958,
     "dailyMinutesDown": {
@@ -226,7 +226,7 @@
     "uptimeYear": "98.81%",
     "time": 2490,
     "timeDay": 829,
-    "timeWeek": 787,
+    "timeWeek": 789,
     "timeMonth": 799,
     "timeYear": 2490,
     "dailyMinutesDown": {
@@ -256,7 +256,7 @@
     "uptimeYear": "100.00%",
     "time": 691,
     "timeDay": 747,
-    "timeWeek": 689,
+    "timeWeek": 681,
     "timeMonth": 691,
     "timeYear": 691,
     "dailyMinutesDown": {}
@@ -274,7 +274,7 @@
     "uptimeYear": "100.00%",
     "time": 161,
     "timeDay": 90,
-    "timeWeek": 101,
+    "timeWeek": 105,
     "timeMonth": 160,
     "timeYear": 161,
     "dailyMinutesDown": {}
@@ -307,14 +307,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.natee.me.ico",
     "slug": "jenkins-natee",
     "status": "up",
-    "uptime": "29.92%",
+    "uptime": "29.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.03%",
-    "uptimeYear": "29.92%",
+    "uptimeMonth": "66.09%",
+    "uptimeYear": "29.94%",
     "time": 789,
     "timeDay": 840,
-    "timeWeek": 806,
+    "timeWeek": 791,
     "timeMonth": 784,
     "timeYear": 789,
     "dailyMinutesDown": {
@@ -383,7 +383,7 @@
     "uptimeYear": "100.00%",
     "time": 799,
     "timeDay": 805,
-    "timeWeek": 751,
+    "timeWeek": 748,
     "timeMonth": 796,
     "timeYear": 799,
     "dailyMinutesDown": {}
@@ -401,7 +401,7 @@
     "uptimeYear": "100.00%",
     "time": 895,
     "timeDay": 1064,
-    "timeWeek": 928,
+    "timeWeek": 915,
     "timeMonth": 922,
     "timeYear": 895,
     "dailyMinutesDown": {}

@@ -1,7 +1,7 @@
 url: https://api.natee.me/swagger
-status: down
-code: 502
-responseTime: 1791
-lastUpdated: 2025-01-16T10:49:00.194Z
+status: up
+code: 200
+responseTime: 962
+lastUpdated: 2025-01-16T11:17:02.436Z
 startTime: 2024-11-18T18:07:10.085Z
 generator: Upptime <https://github.com/upptime/upptime>

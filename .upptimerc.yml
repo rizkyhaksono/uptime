@@ -13,6 +13,8 @@ sites:
     url: https://api-smartrecycling.natee.me
   - name: Nateeflix API
     url: https://api.flix.natee.me/swagger
+  - name: Nateegami API
+    url: https://api.gami.natee.me/swagger
   - name: Otakudesu API
     url: https://otakudesu.natee.me/api
     icon: https://api.otakudesu.natee.my.id/favicon.ico

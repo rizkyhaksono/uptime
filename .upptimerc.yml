@@ -43,6 +43,12 @@ sites:
     url: https://nginx.natee.me
   - name: Portainer Natee
     url: https://portainer.natee.me
+  - name: Company Intern FE
+    url: https://company.natee.me
+    icon: https://company.natee.me/favicon.ico
+  - name: Company Intern BE
+    url: https://api.company.natee.me/docs/api
+    icon: https://company.natee.me/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

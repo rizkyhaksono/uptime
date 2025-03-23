@@ -49,6 +49,12 @@ sites:
   - name: Company Intern BE
     url: https://api.company.natee.me/docs/api
     icon: https://company.natee.me/favicon.ico
+  - name: Venturo Vue FE
+    url: https://venturo.vue.natee.me
+    icon: https://venturo.vue.natee.me/favicon.ico
+  - name: Venturo Vue BE
+    url: https://venturo.laravel.natee.me
+    icon: https://venturo.vue.natee.me/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

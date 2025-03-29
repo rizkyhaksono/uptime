@@ -67,23 +67,18 @@ sites:
     url: https://venturo.siakad.be.natee.my.id/docs/api
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.natee.my.id
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime RH
-  theme: dark
-  introTitle: "**Upptime** is the uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages.
+  theme: light
+  introTitle: "This is my uptime status page. See the status of my sites and services."
+  introMessage: "All systems operational. If you have any questions, please contact me."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
 
 i18n:
   footer: This page is hosted on GitHub [rizkyhaksono/uptime]($REPO) project since @2024-02-02, & created by [rizkyhaksono](https://rizkyhaksono.natee.my.id/).

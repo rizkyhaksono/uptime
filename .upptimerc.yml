@@ -2,6 +2,9 @@ owner: rizkyhaksono
 repo: uptime
 
 sites:
+  - name: My Other Uptime Monitor
+    url: https://stats.uptimerobot.com/RlWv1DOX9w
+    icon: https://stats.uptimerobot.com/assets/favicon.ico
   - name: Portfolio
     url: https://natee.me
     icon: https://natee.me/favicon.ico
@@ -55,6 +58,13 @@ sites:
   - name: Venturo Vue BE
     url: https://venturo.laravel.natee.me
     icon: https://venturo.vue.natee.me/favicon.ico
+  - name: Short Link BE
+    url: https://api.link.natee.me/docs/api
+  - name: Short Link FE
+    # the domain not updated yet
+    url: https://short-link-peach-seven.vercel.app/
+  - name: Venturo Siakad BE
+    url: https://venturo.siakad.be.natee.my.id/docs/api
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

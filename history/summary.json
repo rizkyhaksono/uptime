@@ -22,18 +22,19 @@
     "url": "https://natee.me",
     "icon": "https://natee.me/favicon.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
-    "time": 866,
-    "timeDay": 1776,
-    "timeWeek": 1942,
-    "timeMonth": 2575,
-    "timeYear": 964,
+    "time": 865,
+    "timeDay": 1063,
+    "timeWeek": 1783,
+    "timeMonth": 2516,
+    "timeYear": 963,
     "dailyMinutesDown": {
+      "2025-04-03": 1,
       "2025-03-12": 24,
       "2025-02-27": 32,
       "2025-02-23": 54,
@@ -46,18 +47,19 @@
     "url": "https://api.natee.me/swagger",
     "icon": "https://icons.duckduckgo.com/ip3/api.natee.me.ico",
     "slug": "portfolio-api-v3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 838,
-    "timeDay": 828,
-    "timeWeek": 802,
-    "timeMonth": 827,
-    "timeYear": 838,
+    "time": 834,
+    "timeDay": 570,
+    "timeWeek": 753,
+    "timeMonth": 812,
+    "timeYear": 834,
     "dailyMinutesDown": {
+      "2025-04-03": 1,
       "2025-01-16": 28
     }
   },
@@ -84,18 +86,19 @@
     "url": "https://api-smartrecycling.natee.me",
     "icon": "https://icons.duckduckgo.com/ip3/api-smartrecycling.natee.me.ico",
     "slug": "smart-recycling-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
-    "time": 820,
-    "timeDay": 816,
-    "timeWeek": 840,
-    "timeMonth": 834,
-    "timeYear": 820,
+    "time": 818,
+    "timeDay": 646,
+    "timeWeek": 804,
+    "timeMonth": 824,
+    "timeYear": 818,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2024-11-09": 495,
       "2024-11-08": 995
     }
@@ -105,9 +108,9 @@
     "url": "https://api.flix.natee.me/swagger",
     "icon": "https://icons.duckduckgo.com/ip3/api.flix.natee.me.ico",
     "slug": "nateeflix-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,16 +119,18 @@
     "timeWeek": 692,
     "timeMonth": 729,
     "timeYear": 719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "Nateegami API",
     "url": "https://api.gami.natee.me/swagger",
     "icon": "https://icons.duckduckgo.com/ip3/api.gami.natee.me.ico",
     "slug": "nateegami-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,25 +139,28 @@
     "timeWeek": 693,
     "timeMonth": 693,
     "timeYear": 694,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "Otakudesu API",
     "url": "https://otakudesu.natee.me/api",
     "icon": "https://api.otakudesu.natee.my.id/favicon.ico",
     "slug": "otakudesu-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 809,
-    "timeDay": 804,
-    "timeWeek": 780,
-    "timeMonth": 792,
-    "timeYear": 809,
+    "time": 803,
+    "timeDay": 546,
+    "timeWeek": 731,
+    "timeMonth": 778,
+    "timeYear": 803,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2025-01-15": 28
     }
   },
@@ -265,18 +273,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/inventory.natee.me.ico",
     "slug": "nest-js-inventory-api",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptime": "99.08%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.08%",
     "time": 2145,
     "timeDay": 621,
     "timeWeek": 771,
     "timeMonth": 774,
     "timeYear": 2145,
     "dailyMinutesDown": {
-      "2025-04-03": 1,
+      "2025-04-03": 12,
       "2024-12-28": 30,
       "2024-11-07": 1095,
       "2024-11-06": 1440,
@@ -296,18 +304,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.book.natee.me.ico",
     "slug": "nest-js-book-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 684,
     "timeDay": 806,
     "timeWeek": 694,
     "timeMonth": 675,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-04-03": 1
+      "2025-04-03": 12
     }
   },
   {
@@ -357,9 +365,9 @@
     "slug": "jenkins-natee",
     "status": "down",
     "uptime": "67.07%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "67.07%",
     "time": 787,
     "timeDay": 550,
@@ -367,7 +375,7 @@
     "timeMonth": 779,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2025-04-03": 1,
+      "2025-04-03": 12,
       "2024-12-26": 253,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
@@ -426,18 +434,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.natee.me.ico",
     "slug": "nginx-natee",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 791,
     "timeDay": 607,
     "timeWeek": 749,
     "timeMonth": 775,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2025-04-03": 1
+      "2025-04-03": 12
     }
   },
   {
@@ -446,18 +454,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portainer.natee.me.ico",
     "slug": "portainer-natee",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 893,
     "timeDay": 586,
     "timeWeek": 831,
     "timeMonth": 882,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2025-04-03": 1
+      "2025-04-03": 12
     }
   },
   {
@@ -466,18 +474,18 @@
     "icon": "https://company.natee.me/favicon.ico",
     "slug": "company-intern-fe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 765,
     "timeDay": 628,
     "timeWeek": 727,
     "timeMonth": 765,
     "timeYear": 765,
     "dailyMinutesDown": {
-      "2025-04-03": 1
+      "2025-04-03": 11
     }
   },
   {
@@ -486,18 +494,18 @@
     "icon": "https://company.natee.me/favicon.ico",
     "slug": "company-intern-be",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 907,
     "timeDay": 939,
     "timeWeek": 903,
     "timeMonth": 898,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-04-03": 1
+      "2025-04-03": 11
     }
   },
   {
@@ -506,18 +514,18 @@
     "icon": "https://venturo.vue.natee.me/favicon.ico",
     "slug": "venturo-vue-fe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 912,
     "timeDay": 812,
     "timeWeek": 926,
     "timeMonth": 912,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2025-04-03": 1
+      "2025-04-03": 11
     }
   },
   {
@@ -526,18 +534,18 @@
     "icon": "https://venturo.vue.natee.me/favicon.ico",
     "slug": "venturo-vue-be",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 2612,
     "timeDay": 4100,
     "timeWeek": 2525,
     "timeMonth": 2612,
     "timeYear": 2612,
     "dailyMinutesDown": {
-      "2025-04-03": 0
+      "2025-04-03": 11
     }
   },
   {
@@ -546,18 +554,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.link.natee.me.ico",
     "slug": "short-link-be",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 856,
     "timeDay": 928,
     "timeWeek": 856,
     "timeMonth": 856,
     "timeYear": 856,
     "dailyMinutesDown": {
-      "2025-04-03": 0
+      "2025-04-03": 11
     }
   },
   {
@@ -584,18 +592,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/venturo.siakad.be.natee.my.id.ico",
     "slug": "venturo-siakad-be",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.86%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 1474,
     "timeDay": 1482,
     "timeWeek": 1474,
     "timeMonth": 1474,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2025-04-03": 0
+      "2025-04-03": 11
     }
   }
 ]

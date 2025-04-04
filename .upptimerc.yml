@@ -43,7 +43,7 @@ sites:
   - name: Jenkins Natee
     url: https://jenkins.natee.me/login?from=%2F
   - name: Nginx Natee
-    url: https://nginx.natee.me
+    url: https://nginx.natee.my.id
   - name: Portainer Natee
     url: https://portainer.natee.me
   - name: Company Intern FE

@@ -24,8 +24,8 @@
     "slug": "portfolio",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "44.06%",
-    "uptimeWeek": "92.01%",
+    "uptimeDay": "44.17%",
+    "uptimeWeek": "92.02%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "99.77%",
     "time": 871,
@@ -34,7 +34,7 @@
     "timeMonth": 2429,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2025-04-04": 524,
+      "2025-04-04": 522,
       "2025-04-03": 282,
       "2025-03-12": 24,
       "2025-02-27": 32,
@@ -465,8 +465,8 @@
     "slug": "portainer-natee",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "43.28%",
-    "uptimeWeek": "91.90%",
+    "uptimeDay": "43.39%",
+    "uptimeWeek": "91.91%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "99.62%",
     "time": 884,
@@ -475,7 +475,7 @@
     "timeMonth": 851,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-04-04": 525,
+      "2025-04-04": 523,
       "2025-04-03": 293
     }
   },

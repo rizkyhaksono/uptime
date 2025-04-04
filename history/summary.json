@@ -647,18 +647,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/amqp.rabbitmq.natee.my.id.ico",
     "slug": "natee-amqp-rabbit-mq",
     "status": "down",
-    "uptime": "6.14%",
-    "uptimeDay": "6.14%",
-    "uptimeWeek": "6.14%",
-    "uptimeMonth": "6.14%",
-    "uptimeYear": "6.14%",
+    "uptime": "1.89%",
+    "uptimeDay": "1.89%",
+    "uptimeWeek": "1.89%",
+    "uptimeMonth": "1.89%",
+    "uptimeYear": "1.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 0
+      "2025-04-04": 1
     }
   }
 ]

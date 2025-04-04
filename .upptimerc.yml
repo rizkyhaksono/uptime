@@ -6,8 +6,8 @@ sites:
     url: https://stats.uptimerobot.com/RlWv1DOX9w
     icon: https://stats.uptimerobot.com/assets/favicon.ico
   - name: Portfolio
-    url: https://natee.me
-    icon: https://natee.me/favicon.ico
+    url: https://natee.my.id
+    icon: https://natee.my.id/favicon.ico
   - name: Portfolio API v3
     url: https://api.natee.me/swagger
   - name: Smart Recycling Frontend
@@ -45,7 +45,7 @@ sites:
   - name: Nginx Natee
     url: https://nginx.natee.my.id
   - name: Portainer Natee
-    url: https://portainer.natee.me
+    url: https://portainer.natee.my.id
   - name: Company Intern FE
     url: https://company.natee.me
     icon: https://company.natee.me/favicon.ico

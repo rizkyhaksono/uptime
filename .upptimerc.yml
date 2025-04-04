@@ -68,6 +68,8 @@ sites:
   - name: Natee RabbitMQ
     url: https://rabbitmq.natee.my.id
     icon: https://rabbitmq.natee.my.id/favicon.ico
+  - name: Natee AMQP RabbitMQ
+    url: https://amqp.rabbitmq.natee.my.id
 
 status-website:
   cname: uptime.natee.my.id

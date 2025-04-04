@@ -65,6 +65,9 @@ sites:
     url: https://short-link-peach-seven.vercel.app/
   - name: Venturo Siakad BE
     url: https://venturo.siakad.be.natee.my.id/docs/api
+  - name: Natee RabbitMQ
+    url: https://rabbitmq.natee.my.id
+    icon: https://rabbitmq.natee.my.id/favicon.ico
 
 status-website:
   cname: uptime.natee.my.id

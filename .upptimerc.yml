@@ -76,7 +76,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime RH
-  theme: light
+  theme: dark
   introTitle: "This is my uptime status page. See the status of my sites and services."
   introMessage: "All systems operational. If you have any questions, please contact me."
   navbar:

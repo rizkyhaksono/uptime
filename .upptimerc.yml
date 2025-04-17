@@ -35,7 +35,7 @@ sites:
   - name: NestJS Inventory API
     url: https://inventory.natee.me/api
   - name: NestJS Book API
-    url: https://api.book.natee.me/api
+    url: https://api.book.natee.my.id/api
   - name: Mahati Admin
     url: https://mahati.natee.me
   - name: Mahati API

@@ -19,7 +19,7 @@ sites:
   - name: Nateegami API
     url: https://api.gami.natee.me/swagger
   - name: Otakudesu API
-    url: https://otakudesu.natee.me/api
+    url: https://api.otakudesu.natee.my.id/api
     icon: https://api.otakudesu.natee.my.id/favicon.ico
   - name: Otakudesu Frontend
     url: https://otakudesu.natee.my.id

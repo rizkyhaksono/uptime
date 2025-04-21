@@ -17,7 +17,7 @@ sites:
   - name: Nateeflix API
     url: https://api.flix.natee.my.id/swagger
   - name: Nateegami API
-    url: https://api.gami.natee.me/swagger
+    url: https://api.gami.natee.my.id/swagger
   - name: Otakudesu API
     url: https://api.otakudesu.natee.my.id/api
     icon: https://api.otakudesu.natee.my.id/favicon.ico
@@ -31,9 +31,9 @@ sites:
     url: https://apelmanis.natee.my.id
     icon: https://apelmanis.natee.my.id/favicon.ico
   - name: Info Gempa
-    url: https://gempa.natee.me/
+    url: https://gempa.natee.my.id
   - name: NestJS Inventory API
-    url: https://inventory.natee.me/api
+    url: https://inventory.natee.my.id/api
   - name: NestJS Book API
     url: https://api.book.natee.my.id/api
   - name: Mahati Admin
@@ -47,19 +47,19 @@ sites:
   - name: Portainer Natee
     url: https://portainer.natee.my.id
   - name: Company Intern FE
-    url: https://company.natee.me
-    icon: https://company.natee.me/favicon.ico
+    url: https://company.natee.my.id
+    icon: https://company.natee.my.id/favicon.ico
   - name: Company Intern BE
     url: https://api.company.natee.my.id/docs/api
-    icon: https://company.natee.me/favicon.ico
+    icon: https://company.natee.my.id/favicon.ico
   - name: Venturo Vue FE
-    url: https://venturo.vue.natee.me
-    icon: https://venturo.vue.natee.me/favicon.ico
+    url: https://venturo.vue.natee.my.id
+    icon: https://venturo.vue.natee.my.id/favicon.ico
   - name: Venturo Vue BE
-    url: https://venturo.laravel.natee.me
-    icon: https://venturo.vue.natee.me/favicon.ico
+    url: https://venturo.laravel.natee.my.id
+    icon: https://venturo.vue.natee.my.id/favicon.ico
   - name: Short Link BE
-    url: https://api.link.natee.me/docs/api
+    url: https://api.link.natee.my.id/docs/api
   - name: Short Link FE
     # the domain not updated yet
     url: https://short-link-peach-seven.vercel.app/

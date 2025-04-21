@@ -11,7 +11,7 @@ sites:
   - name: Portfolio API v3
     url: https://api.natee.my.id/swagger
   - name: Smart Recycling Frontend
-    url: https://smartrecycling.natee.me
+    url: https://smartrecycling.natee.my.id
   - name: Smart Recycling Backend
     url: https://api.smartrecycling.natee.my.id
   - name: Nateeflix API

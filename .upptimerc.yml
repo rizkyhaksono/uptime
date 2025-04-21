@@ -13,7 +13,7 @@ sites:
   - name: Smart Recycling Frontend
     url: https://smartrecycling.natee.me
   - name: Smart Recycling Backend
-    url: https://api-smartrecycling.natee.me
+    url: https://api.smartrecycling.natee.my.id
   - name: Nateeflix API
     url: https://api.flix.natee.my.id/swagger
   - name: Nateegami API

@@ -37,7 +37,7 @@ sites:
   - name: NestJS Book API
     url: https://api.book.natee.my.id/api
   - name: Mahati Admin
-    url: https://mahati.natee.me
+    url: https://mahati.natee.my.id
   - name: Mahati API
     url: https://mahati.xyzuan.my.id
   - name: Jenkins Natee

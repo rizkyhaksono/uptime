@@ -198,17 +198,16 @@
     "slug": "otakudesu-frontend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 358,
     "timeDay": 558,
     "timeWeek": 802,
     "timeMonth": 730,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2025-04-28": 8,
       "2025-02-16": 20
     }
   },
@@ -383,9 +382,9 @@
     "slug": "mahati-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 877,
     "timeDay": 743,
@@ -393,7 +392,6 @@
     "timeMonth": 913,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2025-04-28": 8,
       "2025-01-15": 48,
       "2024-11-18": 38,
       "2024-09-30": 42

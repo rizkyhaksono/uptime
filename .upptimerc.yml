@@ -61,8 +61,7 @@ sites:
   - name: Short Link BE
     url: https://api.link.natee.my.id/docs/api
   - name: Short Link FE
-    # the domain not updated yet
-    url: https://short-link-peach-seven.vercel.app/
+    url: https://shortlink.natee.my.id
   - name: Venturo Siakad BE
     url: https://venturo.siakad.be.natee.my.id/docs/api
   - name: Venturo Siakad FE

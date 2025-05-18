@@ -69,8 +69,9 @@ sites:
   - name: Natee RabbitMQ
     url: https://rabbitmq.natee.my.id
     icon: https://rabbitmq.natee.my.id/favicon.ico
-  # - name: Natee AMQP RabbitMQ
-  #   url: https://amqp.rabbitmq.natee.my.id
+  - name: NyanDrive Docs
+    url: https://docs.nyandrive.com
+    icon: https://docs.nyandrive.com/img/favicon.ico
 
 status-website:
   cname: uptime.natee.my.id

@@ -72,6 +72,10 @@ sites:
   - name: NyanDrive Docs
     url: https://docs.nyandrive.com
     icon: https://docs.nyandrive.com/img/favicon.ico
+  - name: Foundation React Devcom UMM
+    url: https://foundation.react.natee.my.id
+  - name: Foundation Express Devcom UMM
+    url: https://foundation.express.natee.my.id   
 
 status-website:
   cname: uptime.natee.my.id

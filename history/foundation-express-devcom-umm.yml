@@ -1,7 +1,7 @@
-url: https://foundation.express.natee.my.id
+url: https://foundation.express.natee.my.id/api/notes
 status: down
-code: 404
-responseTime: 1027
-lastUpdated: 2025-06-19T23:08:13.894Z
+code: 401
+responseTime: 739
+lastUpdated: 2025-06-20T12:27:49.989Z
 startTime: 2025-06-19T04:33:52.981Z
 generator: Upptime <https://github.com/upptime/upptime>

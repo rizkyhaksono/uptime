@@ -74,6 +74,9 @@ sites:
     icon: https://docs.nyandrive.com/img/favicon.ico
   - name: Foundation React Devcom UMM
     url: https://foundation.react.natee.my.id
+  - name: Venturo Reports FE
+    url: https://venturo.reports.fe.natee.my.id
+    icon: https://docs.nyandrive.com/img/favicon.ico
 
 status-website:
   cname: uptime.natee.my.id

@@ -77,6 +77,8 @@ sites:
   - name: Venturo Reports FE
     url: https://venturo.reports.fe.natee.my.id
     icon: https://docs.nyandrive.com/img/favicon.ico
+  - name: serahweb
+    url: https://serahweb.nateee.com
 
 status-website:
   cname: uptime.natee.my.id

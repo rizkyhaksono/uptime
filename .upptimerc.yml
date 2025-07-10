@@ -65,7 +65,7 @@ sites:
   - name: Venturo Siakad BE
     url: https://venturo.siakad.be.natee.my.id/docs/api
   - name: Venturo Siakad FE
-    url: https://venturo.siakad.fe.natee.my.id
+    url: https://venturo-siakad-fe.natee.my.id
   - name: Natee RabbitMQ
     url: https://rabbitmq.natee.my.id
     icon: https://rabbitmq.natee.my.id/favicon.ico

@@ -79,6 +79,7 @@ sites:
     icon: https://docs.nyandrive.com/img/favicon.ico
   - name: serahweb
     url: https://serahweb.nateee.com
+    icon: https://serahweb.nateee.com/favicon.ico
 
 status-website:
   cname: uptime.natee.my.id

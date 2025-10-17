@@ -7,9 +7,15 @@ sites:
     icon: https://stats.uptimerobot.com/assets/favicon.ico
   - name: Uptime Monitor v3
     url: https://status.nateee.com/status/all
-  - name: Portfolio
+  - name: Portfolio (.my.id)
     url: https://natee.my.id
     icon: https://natee.my.id/favicon.ico
+  - name: Portfolio (.com)
+    url: https://nateee.com
+    icon: https://natee.com/favicon.ico
+  - name: Portfolio (.io)
+    url: https://nateon.io
+    icon: https://nateon.io/favicon.ico
   - name: Portfolio API v3
     url: https://api.natee.my.id/swagger
   - name: Smart Recycling Frontend

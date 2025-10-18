@@ -91,6 +91,9 @@ sites:
   - name: serahweb (serah)
     url: https://serahweb.com
     icon: https://serahweb.com/favicon.ico
+  - name: Natee Tracker
+    url: https://tracker.nateon.io
+    icon: https://tracker.nateon.io/favicon.svg
 
 status-website:
   cname: uptime.natee.my.id

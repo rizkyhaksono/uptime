@@ -1,7 +1,7 @@
 url: https://tracker.nateon.io
-status: up
-code: 200
-responseTime: 894
-lastUpdated: 2025-10-19T23:07:44.578Z
+status: down
+code: 500
+responseTime: 3523
+lastUpdated: 2025-10-20T07:17:29.911Z
 startTime: 2025-10-18T19:53:11.045Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://mahati.natee.my.id
-status: up
-code: 200
-responseTime: 88
-lastUpdated: 2025-10-19T23:07:05.404Z
+status: down
+code: 500
+responseTime: 3332
+lastUpdated: 2025-10-20T07:16:38.484Z
 startTime: 2024-08-17T15:35:58.332Z
 generator: Upptime <https://github.com/upptime/upptime>

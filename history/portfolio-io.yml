@@ -1,7 +1,7 @@
 url: https://nateon.io
-status: up
-code: 200
-responseTime: 3074
-lastUpdated: 2025-10-29T23:07:41.006Z
+status: down
+code: 500
+responseTime: 2210
+lastUpdated: 2025-10-30T07:29:19.584Z
 startTime: 2025-10-17T06:50:00.222Z
 generator: Upptime <https://github.com/upptime/upptime>

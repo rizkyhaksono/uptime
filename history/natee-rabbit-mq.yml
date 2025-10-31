@@ -1,7 +1,7 @@
 url: https://rabbitmq.natee.my.id
-status: down
-code: 502
-responseTime: 792
-lastUpdated: 2025-10-30T23:08:45.560Z
+status: up
+code: 200
+responseTime: 833
+lastUpdated: 2025-10-31T07:52:00.767Z
 startTime: 2025-04-04T14:38:48.681Z
 generator: Upptime <https://github.com/upptime/upptime>

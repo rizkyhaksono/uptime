@@ -51,18 +51,17 @@
     "icon": "https://natee.my.id/favicon.ico",
     "slug": "portfolio-my-id",
     "status": "up",
-    "uptime": "88.36%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "72.21%",
-    "uptimeMonth": "88.36%",
-    "uptimeYear": "88.36%",
+    "uptime": "88.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "72.35%",
+    "uptimeMonth": "88.42%",
+    "uptimeYear": "88.42%",
     "time": 3365,
     "timeDay": 3778,
     "timeWeek": 3629,
     "timeMonth": 3365,
     "timeYear": 3365,
     "dailyMinutesDown": {
-      "2025-11-02": 14,
       "2025-10-29": 776,
       "2025-10-28": 1440,
       "2025-10-27": 571
@@ -74,18 +73,17 @@
     "icon": "https://natee.com/favicon.ico",
     "slug": "portfolio-com",
     "status": "up",
-    "uptime": "88.37%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "72.24%",
-    "uptimeMonth": "88.37%",
-    "uptimeYear": "88.37%",
+    "uptime": "88.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "72.36%",
+    "uptimeMonth": "88.43%",
+    "uptimeYear": "88.43%",
     "time": 2241,
     "timeDay": 2743,
     "timeWeek": 2521,
     "timeMonth": 2241,
     "timeYear": 2241,
     "dailyMinutesDown": {
-      "2025-11-02": 13,
       "2025-10-29": 776,
       "2025-10-28": 1440,
       "2025-10-27": 570
@@ -419,8 +417,7 @@
       "2024-11-07": 1095,
       "2024-11-06": 1440,
       "2024-11-05": 621,
-      "2024-11-04": 124,
-      "2024-11-03": 167
+      "2024-11-04": 124
     }
   },
   {

@@ -1,7 +1,7 @@
 url: https://api.book.natee.my.id/api
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-09T02:15:37.289Z
+status: up
+code: 200
+responseTime: 690
+lastUpdated: 2025-11-09T06:51:54.300Z
 startTime: 2024-12-29T07:38:59.864Z
 generator: Upptime <https://github.com/upptime/upptime>

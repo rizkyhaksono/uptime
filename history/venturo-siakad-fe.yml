@@ -1,7 +1,7 @@
 url: https://venturo-siakad-fe.natee.my.id
-status: up
-code: 200
-responseTime: 828
-lastUpdated: 2025-11-18T12:22:29.146Z
+status: down
+code: 500
+responseTime: 104
+lastUpdated: 2025-11-18T12:41:37.394Z
 startTime: 2025-04-21T06:38:19.309Z
 generator: Upptime <https://github.com/upptime/upptime>

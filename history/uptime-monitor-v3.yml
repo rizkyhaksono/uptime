@@ -1,7 +1,7 @@
 url: https://status.nateee.com/status/all
-status: down
-code: 500
-responseTime: 117
-lastUpdated: 2025-11-18T11:46:44.074Z
+status: up
+code: 200
+responseTime: 930
+lastUpdated: 2025-11-18T11:54:27.059Z
 startTime: 2025-08-31T09:18:42.641Z
 generator: Upptime <https://github.com/upptime/upptime>

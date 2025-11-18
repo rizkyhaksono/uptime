@@ -1,7 +1,7 @@
 url: https://portainer.natee.my.id
-status: down
-code: 500
-responseTime: 50
-lastUpdated: 2025-11-18T11:47:03.372Z
+status: up
+code: 200
+responseTime: 859
+lastUpdated: 2025-11-18T11:54:59.901Z
 startTime: 2024-11-07T18:20:10.967Z
 generator: Upptime <https://github.com/upptime/upptime>

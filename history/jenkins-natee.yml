@@ -1,7 +1,7 @@
 url: https://jenkins.natee.my.id/login?from=%2F
-status: up
-code: 200
-responseTime: 922
-lastUpdated: 2025-11-18T13:01:59.998Z
+status: down
+code: 500
+responseTime: 318
+lastUpdated: 2025-11-18T13:20:13.727Z
 startTime: 2024-11-07T18:20:06.795Z
 generator: Upptime <https://github.com/upptime/upptime>

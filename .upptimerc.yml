@@ -17,7 +17,7 @@ sites:
     url: https://nateon.io
     icon: https://nateon.io/favicon.ico
   - name: Portfolio API v3
-    url: https://api.natee.my.id/swagger
+    url: https://api.natee.my.id/docs
   - name: Smart Recycling Frontend
     url: https://smartrecycling.natee.my.id
   - name: Smart Recycling Backend

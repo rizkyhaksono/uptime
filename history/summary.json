@@ -5,18 +5,17 @@
     "icon": "https://stats.uptimerobot.com/assets/favicon.ico",
     "slug": "uptime-monitor-v2",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.87%",
     "time": 659,
     "timeDay": 601,
     "timeWeek": 667,
     "timeMonth": 627,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-12-16": 8,
       "2025-12-02": 23,
       "2025-11-29": 21,
       "2025-11-27": 24,
@@ -325,7 +324,7 @@
     "status": "up",
     "uptime": "97.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.93%",
+    "uptimeWeek": "69.94%",
     "uptimeMonth": "76.67%",
     "uptimeYear": "97.31%",
     "time": 818,
@@ -621,8 +620,7 @@
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
-      "2024-12-18": 1440,
-      "2024-12-17": 1440
+      "2024-12-18": 1440
     }
   },
   {
@@ -906,7 +904,7 @@
     "timeMonth": 1130,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2025-12-17": 0,
+      "2025-12-17": 1,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1025,7 +1023,7 @@
     "timeMonth": 795,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2025-12-17": 0,
+      "2025-12-17": 1,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1073,7 +1071,7 @@
     "timeMonth": 957,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2025-12-17": 0,
+      "2025-12-17": 2,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
@@ -1140,7 +1138,7 @@
     "status": "up",
     "uptime": "72.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.25%",
+    "uptimeWeek": "93.26%",
     "uptimeMonth": "45.82%",
     "uptimeYear": "72.39%",
     "time": 3516,

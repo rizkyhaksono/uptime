@@ -1,7 +1,7 @@
 url: https://gempa.natee.my.id
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-04T21:45:04.043Z
+status: up
+code: 200
+responseTime: 2831
+lastUpdated: 2026-01-04T21:53:05.131Z
 startTime: 2024-05-07T02:56:14.368Z
 generator: Upptime <https://github.com/upptime/upptime>

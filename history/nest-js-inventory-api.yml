@@ -1,7 +1,7 @@
 url: https://inventory.natee.my.id/api
-status: down
-code: 522
-responseTime: 19654
-lastUpdated: 2026-01-09T07:44:57.525Z
+status: up
+code: 200
+responseTime: 748
+lastUpdated: 2026-01-09T08:47:14.185Z
 startTime: 2024-05-07T02:56:14.919Z
 generator: Upptime <https://github.com/upptime/upptime>

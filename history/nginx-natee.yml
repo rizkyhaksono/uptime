@@ -1,7 +1,7 @@
 url: https://nginx.natee.my.id
-status: up
-code: 200
-responseTime: 898
-lastUpdated: 2026-01-08T23:08:43.038Z
+status: down
+code: 522
+responseTime: 19697
+lastUpdated: 2026-01-09T07:48:09.260Z
 startTime: 2024-11-07T18:20:09.927Z
 generator: Upptime <https://github.com/upptime/upptime>

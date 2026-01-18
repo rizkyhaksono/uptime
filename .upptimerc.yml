@@ -18,10 +18,6 @@ sites:
     icon: https://nateon.io/favicon.ico
   - name: Portfolio API v3
     url: https://api.natee.my.id/docs
-  - name: Smart Recycling Frontend
-    url: https://smartrecycling.natee.my.id
-  - name: Smart Recycling Backend
-    url: https://api.smartrecycling.natee.my.id
   - name: Nateeflix API
     url: https://api.flix.natee.my.id/swagger
   - name: Nateegami API
@@ -54,36 +50,15 @@ sites:
     url: https://nginx.natee.my.id
   - name: Portainer Natee
     url: https://portainer.natee.my.id
-  - name: Company Intern FE
-    url: https://company.natee.my.id
-    icon: https://company.natee.my.id/favicon.ico
-  - name: Company Intern BE
-    url: https://api.company.natee.my.id/docs/api
-    icon: https://company.natee.my.id/favicon.ico
-  - name: Venturo Vue FE
-    url: https://venturo.vue.natee.my.id
-    icon: https://venturo.vue.natee.my.id/favicon.ico
-  - name: Venturo Vue BE
-    url: https://venturo.laravel.natee.my.id
-    icon: https://venturo.vue.natee.my.id/favicon.ico
   - name: Short Link BE
     url: https://api.link.natee.my.id/docs/api
   - name: Short Link FE
     url: https://shortlink.natee.my.id
-  - name: Venturo Siakad BE
-    url: https://venturo.siakad.be.natee.my.id/docs/api
-  - name: Venturo Siakad FE
-    url: https://venturo-siakad-fe.natee.my.id
   - name: Natee RabbitMQ
     url: https://rabbitmq.natee.my.id
     icon: https://rabbitmq.natee.my.id/favicon.ico
   - name: NyanDrive Docs
     url: https://docs.nyandrive.com
-    icon: https://docs.nyandrive.com/img/favicon.ico
-  - name: Foundation React Devcom UMM
-    url: https://foundation.react.natee.my.id
-  - name: Venturo Reports FE
-    url: https://venturo.reports.fe.natee.my.id
     icon: https://docs.nyandrive.com/img/favicon.ico
   - name: serahweb (natee)
     url: https://serahweb.nateee.com

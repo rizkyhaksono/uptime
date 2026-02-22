@@ -1,7 +1,7 @@
 url: https://api.gami.natee.my.id/swagger
-status: down
-code: 502
-responseTime: 3967
-lastUpdated: 2026-02-22T12:17:38.211Z
+status: up
+code: 200
+responseTime: 12157
+lastUpdated: 2026-02-22T12:36:17.756Z
 startTime: 2025-01-19T14:46:27.572Z
 generator: Upptime <https://github.com/upptime/upptime>

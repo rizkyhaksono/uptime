@@ -1,7 +1,7 @@
 url: https://api.otakudesu.natee.my.id/api
-status: up
-code: 200
-responseTime: 647
-lastUpdated: 2026-03-01T23:09:59.587Z
+status: down
+code: 502
+responseTime: 833
+lastUpdated: 2026-03-02T07:25:39.581Z
 startTime: 2025-01-08T20:31:34.786Z
 generator: Upptime <https://github.com/upptime/upptime>

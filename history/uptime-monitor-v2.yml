@@ -1,7 +1,7 @@
 url: https://stats.uptimerobot.com/RlWv1DOX9w
-status: up
-code: 200
-responseTime: 516
-lastUpdated: 2026-03-10T23:11:21.354Z
+status: down
+code: 500
+responseTime: 1096
+lastUpdated: 2026-03-11T09:01:53.948Z
 startTime: 2025-08-31T09:18:41.791Z
 generator: Upptime <https://github.com/upptime/upptime>

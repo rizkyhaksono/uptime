@@ -1,7 +1,7 @@
 url: https://api.flix.natee.my.id/swagger
-status: down
-code: 502
-responseTime: 3950
-lastUpdated: 2026-05-17T16:56:32.493Z
+status: up
+code: 200
+responseTime: 1838
+lastUpdated: 2026-05-17T17:24:34.728Z
 startTime: 2025-01-08T20:31:33.806Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -54,9 +54,6 @@ sites:
     url: https://api.link.natee.my.id/docs/api
   - name: Short Link FE
     url: https://shortlink.natee.my.id
-  - name: Natee RabbitMQ
-    url: https://rabbitmq.natee.my.id
-    icon: https://rabbitmq.natee.my.id/favicon.ico
   - name: NyanDrive Docs
     url: https://docs.nyandrive.com
     icon: https://docs.nyandrive.com/img/favicon.ico

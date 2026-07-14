@@ -42,8 +42,6 @@ sites:
     url: https://api.book.natee.my.id/api
   - name: Mahati Admin
     url: https://mahati.natee.my.id
-  - name: Mahati API
-    url: https://mahati.xyzuan.my.id
   - name: Jenkins Natee
     url: https://jenkins.natee.my.id/login?from=%2F
   - name: Nginx Natee
@@ -54,9 +52,6 @@ sites:
     url: https://api.link.natee.my.id/docs/api
   - name: Short Link FE
     url: https://shortlink.natee.my.id
-  - name: NyanDrive Docs
-    url: https://docs.nyandrive.com
-    icon: https://docs.nyandrive.com/img/favicon.ico
   - name: serahweb (natee)
     url: https://serahweb.nateee.com
     icon: https://serahweb.nateee.com/favicon.ico

@@ -40,10 +40,7 @@ sites:
     url: https://nginx.natee.my.id
   - name: Portainer Natee
     url: https://portainer.natee.my.id
-  - name: serahweb (natee)
-    url: https://serahweb.nateee.com
-    icon: https://serahweb.nateee.com/favicon.ico
-  - name: serahweb (serah)
+  - name: serahweb
     url: https://serahweb.com
     icon: https://serahweb.com/favicon.ico
 

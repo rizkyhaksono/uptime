@@ -1,7 +1,7 @@
 url: https://status.natee.my.id/status/natee
-status: down
-code: 502
-responseTime: 1099
-lastUpdated: 2026-08-09T11:11:53.472Z
+status: up
+code: 200
+responseTime: 1320
+lastUpdated: 2026-08-09T13:39:17.830Z
 startTime: 2025-08-31T09:18:42.641Z
 generator: Upptime <https://github.com/upptime/upptime>

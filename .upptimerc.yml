@@ -34,8 +34,6 @@ sites:
     url: https://gempa.natee.my.id
   - name: Mahati Admin
     url: https://mahati.natee.my.id
-  - name: Jenkins Natee
-    url: https://jenkins.natee.my.id/login?from=%2F
   - name: Nginx Natee
     url: https://nginx.natee.my.id
   - name: Portainer Natee

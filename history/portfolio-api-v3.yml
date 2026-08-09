@@ -1,7 +1,7 @@
 url: https://api.natee.my.id/docs
-status: up
-code: 200
-responseTime: 1099
-lastUpdated: 2026-08-09T11:14:29.120Z
+status: down
+code: 502
+responseTime: 1125
+lastUpdated: 2026-08-09T12:53:52.290Z
 startTime: 2024-11-18T18:07:10.085Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -7,9 +7,9 @@ sites:
     icon: https://stats.uptimerobot.com/assets/favicon.ico
   - name: Uptime Monitor v3
     url: https://status.natee.my.id/status/natee
-  - name: Portfolio (.com)
-    url: https://nateee.com
-    icon: https://natee.com/favicon.ico
+  - name: Portfolio (.my.id)
+    url: https://natee.my.id
+    icon: https://natee.my.id/favicon.ico
   - name: Portfolio API v3
     url: https://api.natee.my.id/docs
   - name: Otakudesu API

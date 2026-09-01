@@ -12,6 +12,7 @@ sites:
     icon: https://natee.my.id/favicon.ico
   - name: Portfolio API v3
     url: https://api.natee.my.id/docs
+    icon: https://natee.my.id/favicon.ico
   - name: Otakudesu API
     url: https://api.otakudesu.natee.my.id/api
     icon: https://api.otakudesu.natee.my.id/favicon.ico
@@ -28,10 +29,13 @@ sites:
     url: https://gempa.natee.my.id
   - name: Mahati Admin
     url: https://mahati.natee.my.id
+    icon: https://mahati.natee.my.id/favicon.ico
   - name: Nginx Natee
     url: https://nginx.natee.my.id
+    icon: https://nginx.natee.my.id/images/favicon/favicon-32x32.png
   - name: Portainer Natee
     url: https://portainer.natee.my.id
+    icon: https://portainer.natee.my.id/6102815b8a2c1fb84a24.png
   - name: serahweb
     url: https://serahweb.com
     icon: https://serahweb.com/favicon.ico

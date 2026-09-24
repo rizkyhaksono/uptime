@@ -19,9 +19,6 @@ sites:
   - name: Otakudesu Frontend
     url: https://otakudesu.natee.my.id
     icon: https://otakudesu.natee.my.id/favicon.ico
-  - name: Otakudesu Docs
-    url: https://otakudesudocs.natee.my.id
-    icon: https://otakudesudocs.natee.my.id/favicon.ico
   - name: Apel Manis
     url: https://apelmanis.natee.my.id
     icon: https://apelmanis.natee.my.id/favicon.ico

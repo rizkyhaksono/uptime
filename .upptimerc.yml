@@ -2,10 +2,10 @@ owner: rizkyhaksono
 repo: uptime
 
 sites:
-  - name: Uptime Monitor v2
+  - name: Uptime Monitor v1
     url: https://stats.uptimerobot.com/RlWv1DOX9w
     icon: https://stats.uptimerobot.com/assets/favicon.ico
-  - name: Uptime Monitor v3
+  - name: Uptime Monitor v2
     url: https://status.natee.my.id/status/natee
   - name: Portfolio (.my.id)
     url: https://natee.my.id

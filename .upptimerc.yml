@@ -11,7 +11,7 @@ sites:
     url: https://natee.my.id
     icon: https://natee.my.id/favicon.ico
   - name: Portfolio API v3
-    url: https://api.natee.my.id/docs
+    url: https://api.natee.my.id
     icon: https://natee.my.id/favicon.ico
   - name: Otakudesu API
     url: https://api.otakudesu.natee.my.id/api

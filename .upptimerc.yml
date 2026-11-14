@@ -14,7 +14,7 @@ sites:
     url: https://api.natee.my.id
     icon: https://natee.my.id/favicon.ico
   - name: Otakudesu API
-    url: https://api.otakudesu.natee.my.id/api
+    url: https://api.otakudesu.natee.my.id/docs
     icon: https://api.otakudesu.natee.my.id/favicon.ico
   - name: Otakudesu Frontend
     url: https://otakudesu.natee.my.id
